@@ -1,0 +1,3 @@
+# PRODIGY_WB_05
+This is a simple weather app created using JavaScript, HTML and CSS. Using openweathermaps API, you are able the name of any city and the app will give you the current weather conditions of that city in real time. You can see the weather description of the city, temperatures in degrees celsius, humidity in percentage, and wind speed in Km/h.
+
